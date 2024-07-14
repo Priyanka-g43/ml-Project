@@ -1,0 +1,1 @@
+-e git+https://github.com/Priyanka-g43/ml-Project.git@7c4d8e42c8fa41312c8d900bb85e1c8a7ba822c6#egg=MLProject
